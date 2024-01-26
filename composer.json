@@ -1,5 +1,5 @@
 {
-  "name": "feehi/yii2-cdn",
+  "name": "jhlater/yii2-cdn",
   "type": "library",
   "description": "yii2 cdn",
   "keywords": ["yii2","oss","yii2-oss", "qiniu", "yii2-qiniu"],
@@ -20,7 +20,6 @@
   },
   "require" : {
     "qiniu/php-sdk": "^7.2",
-    "qcloud/cos-sdk-v5": ">=1.0",
     "netease/nos-php-sdk": "1.0.0",
     "aliyuncs/oss-sdk-php": "~2.0"
   }
